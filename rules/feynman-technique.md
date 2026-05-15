@@ -1,8 +1,3 @@
----
-name: feynman-technique
-description: 费曼学习法核心方法论，侧重于深度理解、简化概念和查漏补缺。
----
-
 # 费曼技巧 (The Feynman Technique)
 
 > "如果你不能简单地解释它，你就没有真正理解它。" —— 理查德·费曼

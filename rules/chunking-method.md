@@ -1,8 +1,3 @@
----
-name: chunking-method
-description: 组块化记忆法，侧重于突破短时记忆限制，处理长列表和复杂信息。
----
-
 # 组块化记忆法 (Chunking Method)
 
 > "将大象切成小块吃。"
