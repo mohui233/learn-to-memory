@@ -1,4 +1,4 @@
-# 通用记忆辅助 (Learn-To-Memory)
+# 记忆辅助 Skill (Learn-To-Memory)
 
 > "把知识点截图进来，剩下的交给我。"
 
